@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PC4
-  m_Shader: {fileID: 4800000, guid: 4fefc38d7f578b04e977a6f1d060fea9, type: 3}
+  m_Shader: {fileID: 4800000, guid: 9fbf5cbffa7a7514b9a4967a77bd371e, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -60,8 +60,12 @@ Material:
         m_Texture: {fileID: 8900000, guid: 18ec2d52be8f4524a97c25a2ed27838e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _myEmission:
+        m_Texture: {fileID: 2800000, guid: 8bc659221af5696479d6d9fc3f5ab46d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _myTex:
-        m_Texture: {fileID: 2800000, guid: 1d5b21d07413d8f4f8b54302e0dc545b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 93cd9468a0ba3a946a1391d564c53a52, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
